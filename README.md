@@ -93,17 +93,6 @@ Trabalho com **análise de dados, automação de processos e criação de soluç
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lunardy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-
-</div>
-
-
----
-
 ## 📈 Atividade no GitHub
 
 <div align="center">
