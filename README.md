@@ -96,17 +96,19 @@ Trabalho com **análise de dados, automação de processos e criação de soluç
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats-three-ashy-65.vercel.app/?username=lunardy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=lunardy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+
 </div>
 
 
 ---
 
-# 📈 Atividade no GitHub
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats-three-ashy-65.vercel.app/graph?username=lunardy&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lunardy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=C9D1D9&area=true" />
 
 </div>
 
